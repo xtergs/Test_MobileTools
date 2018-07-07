@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_MobileTools.Android", "Test_MobileTools\Test_MobileTools.Android\Test_MobileTools.Android.csproj", "{3CF059C6-ED02-4B2C-8657-671C9ED44B46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_MobileTools.Android", "src\Test_MobileTools.Android\Test_MobileTools.Android.csproj", "{3CF059C6-ED02-4B2C-8657-671C9ED44B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_MobileTools", "Test_MobileTools\Test_MobileTools\Test_MobileTools.csproj", "{C60053C5-86F6-44B7-855F-34DD68999E36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_MobileTools", "src\Test_MobileTools\Test_MobileTools.csproj", "{C60053C5-86F6-44B7-855F-34DD68999E36}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{813C0C5B-F176-4B0C-91D8-99FB094480FB}"
 	ProjectSection(SolutionItems) = preProject
